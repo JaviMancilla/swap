@@ -1,0 +1,22 @@
+
+<!-- Preguntas del tema 1 --> 
+
+<pregunta>
+	<enunciado> Sobre una granja web, ¿que afirmación es correcta?</enunciado>
+	<opcionA> Es un unico servidor dedicado a servir contenido web. </opcionA>
+	<opcionB> Resuelven los problemas de sistemas mas simples para dar servicio a un alto número de usuarios. </opcionB>
+	<opcionC> Sistemas simples pero sumamente flexibles y funcionales. </opcionC>
+	<opcionD> a y c son correctas</opcionD>
+	<solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado> Con respecto a los problemas de disponibilidad, ¿que afirmación es correcta? </enunciado>
+	<opcionA> Las actualizaciones del SO, de aplicaciones o servicios no afectan al rendimiento global. </opcionA>
+	<opcionB> Conforme se use el sistema los errores de programación van desapareciendo. </opcionB>
+	<opcionC> Tarde o temprano el hardware falla.</opcionC>
+	<opcionD> Ninguna es correcta. </opcionD>
+	<solucion> C </solucion>
+</pregunta>
+
+

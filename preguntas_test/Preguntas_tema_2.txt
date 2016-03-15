@@ -1,0 +1,19 @@
+<!-- Preguntas del tema 2 -->
+
+<pregunta>
+	<enunciado> Solo debería haber:</enunciado>
+	<opcionA> Tiempos de no-disponibilidad programados y los más largos posibles. </opcionA>
+	<opcionB> Tiempos de no-disponibilidad no programados y los más largos posibles.</opcionB>
+	<opcionC> Tiempos de no-disponibilidad programados y los más cortos posibles.</opcionC>
+	<opcionD> Tiempos de no-disponibilidad no programados y los más cortos posibles.</opcionD>
+	<solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado> Señala la afirmación erronea sobre el incremento del nivel de estrés.</enunciado>
+	<opcionA> Cambios en las aplicaciones. </opcionA>
+	<opcionB> Decremento repentino del número de usuarios al sitio. </opcionB>
+	<opcionC> Fallos o caidas de algunas partes del sistema. </opcionC>
+	<opcionD> Incremento del número de máquinas.</opcionD>
+	<solucion> B </solucion>
+</pregunta>
