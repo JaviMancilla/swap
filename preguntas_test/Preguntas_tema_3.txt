@@ -1,0 +1,24 @@
+<!-- Preguntas del tema 3 -->
+
+<pregunta>
+	<enunciado> 
+		En la configuracion de una zona, 
+		¿que tipo de configuracion tiene el siguiente problema?: 
+		"Los servidores y maquinas tras el cortafuegos aun comparten
+		ancho de banda". 
+	</enunciado>
+	<opcionA> Configuracion sin DMZ.</opcionA>
+	<opcionB> Configuracion de DMZ simple.</opcionB>
+	<opcionC> Configuracion de DMZ tradicional. </opcionC>
+	<opcionD> Configuracion de DMZ doble. </opcionD>
+	<solucion> B </solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado> ¿De que factores depende la conexion a Internet para asegurar la calidad del servicio y la seguridad?</enunciado>
+	<opcionA> Filtrado y bloqueo de paquetes. </opcionA>
+	<opcionB> Calidad del servicio y ancho de banda. </opcionB>
+	<opcionC> Network address translation (NAT). </opcionC>
+	<opcionD> Todas son factores correctos. </opcionD>
+	<solucion> D </solucion>
+</pregunta>
