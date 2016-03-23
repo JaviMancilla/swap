@@ -38,7 +38,7 @@
 
    - En la maquina 2 (mancilla@ubuntu-2), editaremos el archivo /etc/crontab y añadiremos la siguiente orden:
 
-     *01 * * * * mancilla rsync -avz -e ssh 192.168.131.130:/var/www/ /var/www/
+     *01 * * * * mancilla rsync -avz -e ssh 192.168.131.130:/var/www/ /var/www/*
 
      Y el archivo quedará de la siguiente manera:
 
