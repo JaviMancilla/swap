@@ -5,6 +5,17 @@
 
 **1. Clonado de una carpeta entre dos máquinas.**
 
+     Para el clonado de carpetas entre nuestras dos máquinas, debemos instalar la herramienta *rsync*.
+     Una vez instalada solo debemos indicar que carpetas clonar y desde que máquinas con la siguiente orden:
+ 
+     *rsync -avz -e ssh 192.168.131.130:/var/www/ /var/www/*
+
+     Donde la IP indicada es la de nuestra máquina uno, y por supuesto el comando se ejecutará desde la máquina 2.
+
+     El resultado es el siguiente:
+
+     ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_2/Capturas/punto3.PNG)
+
 
 
 **2. Configuracion de ssh para acceder sin contraseña.**
@@ -45,4 +56,4 @@
      ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_2/Capturas/tarea_crontab.PNG)
 
      
-     Una vez guardado, cada hora de cada dia del año se ejecutara la orden indicada.
+     Una vez guardado, cada hora de cada día del año se ejecutará la orden indicada.
