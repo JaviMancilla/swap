@@ -5,7 +5,7 @@
 
   **1.1. Clave del repositorio.**
 
-	- sakfjadsif
+	- sakfjadsif:
 
 	![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_3/Capturas_nginx/1.PNG)
 
