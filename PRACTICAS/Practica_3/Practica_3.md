@@ -57,7 +57,7 @@
 
   **2.2. Configuración archivo.**
 
-	*cd /etc/*
+  *cd /etc/*
 	*cd haproxy/*
 	*nano haproxy.cfg*
 	
