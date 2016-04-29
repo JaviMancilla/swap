@@ -3,13 +3,13 @@
 
 **1. APACHE BENCHMARK**
 
-  **1.1 Instalación**
+  **1.1. Instalación**
 
     Instalamos en nuestro sistema operativo nativo (en este caso bajo Win7), nuestro servidor apache.
 
   
 
-  **1.2 5 Ejecuciones "ab" contra M1**
+  **1.2. 5 Ejecuciones "ab" contra M1**
 
   Para este primer caso, utilizamos la herramienta AB contra la M1 sin ningun balanceador de carga.
 
@@ -37,3 +37,9 @@
   *Quinta ejecución*
 
   ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20M1/ejecucion%205.PNG)
+
+
+  **1.3. 5 Ejecuciones "ab" contra LB (M3) con Nginx** 
+
+
+  **1.4. 5 Ejecuciones "ab" contra LB (M3) con Haproxy**
