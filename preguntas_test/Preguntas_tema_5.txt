@@ -1,0 +1,23 @@
+<!-- Preguntas del tema 5 -->
+
+<pregunta>
+	<enunciado> 
+		 ¿Cual de las siguientes afirmaciones correponde al tipo de tráfico "tienda web"? </enunciado>
+	<opcionA> El numero de conexiones para este tipo de tráfico es muy bajo comparado con la cantidad de información enviada. </opcionA>
+	<opcionB> Consume ancho de banda intensivamente y genera muchas conexiones por segundo. </opcionB>
+	<opcionC> No se necesita un alto ancho de banda ni hay demasiadas conexiones por segundo. </opcionC>
+	<opcionD> Consume el ancho de banda máximo rápidamente. </opcionD>
+	<solucion> C </solucion>
+</pregunta>
+
+<pregunta>
+	<enunciado> Según la siguiente definición:
+		"Actividad creciente hasta detectar el punto de saturación."
+		¿A que tipo de prueba se corresponde?	
+	</enunciado>
+	<opcionA> Carga (Load)</opcionA>
+	<opcionB> Capacidad (Capacity)</opcionB>
+	<opcionC> Sobrecarga (Overload)</opcionC>
+	<opcionD> Estrés (Stress)</opcionD>
+	<solucion> B </solucion>
+</pregunta>
