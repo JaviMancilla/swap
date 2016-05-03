@@ -83,24 +83,24 @@
 
   *Primera ejecución*
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20LB%20haproxy/ejecucion%201.PNG)
 
 
   *Segunda ejecución*
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20LB%20haproxy/ejecucion%202.PNG)
 
 
   *Tercera ejecución*
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20LB%20haproxy/ejecucion%203.PNG)
 
 
   *Cuarta ejecución*
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20LB%20haproxy/ejecucion%204.PNG)
 
 
   *Quinta ejecución*
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20LB%20haproxy/ejecucion%205.PNG)
