@@ -104,3 +104,11 @@
   *Quinta ejecución*
 
   ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Ejecuciones%20LB%20haproxy/ejecucion%205.PNG)
+
+
+  **1.1. Gráfica de Rendimientos**
+
+  Una vez probado las 5 ejecuciones por cada tipo, hemos creado una gráfica de barras, en la cual se muestran los campos más resaltados del resultado de las ejecuciones.
+  En esta gráfica se muestra la media de las 5 ejecuciones de los campos: Time take for test, Failed Request y Request per second.  
+
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_4/Capturas/AB/Grafica.PNG)
