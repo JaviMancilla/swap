@@ -5,32 +5,32 @@
 
   **1.1. Entramos a MySQL.**
 
-	foto 1.1
+  ![imagen]()
 
   **1.2. Creamos la BD con resigistros.**
 
-	foto 1.2
+  ![imagen]()	foto 1.2
 
 
 **2. REALIZAR COPIA DE SEGURIDAD DE LA BASE DE DATOS USANDO MySQLDUMP.**
 
   **2.1. Evitamos que se acceda a la BD para cambiar nada con los siguientes comandos:**
 
-	foto 2.1
+  ![imagen]()	foto 2.1
 
   **2.2. Hacemos el mysqldum para guardar los datos en la maquina 1.**
 
-	foto 2.2
+  ![imagen]()	foto 2.2
 
   **2.3. Copiamos el archivo .sql en nuestra maquina 2 con el siguiente comando:**
 
-	foto 2.3
+  ![imagen]()	foto 2.3
 
   **2.4. En nuestra maquina 2, es necesario crear la BD, ya la copia no la creará, solo importa los datos.**
   ** y ya podremos restaurar los contedinos de nuestra BD.**		
 	
-	foto 2.4.
-	foto 2.5.
+  ![imagen]()	foto 2.4.
+  ![imagen]()	foto 2.5.
 
 
 **3.REPLICACIÓN DE LA BASE DE DATOS CON UNA CONFIGURACION MAESTRO-ESCLAVO.**
@@ -54,7 +54,7 @@
 
 	- Reiniciamos el servicio y si no se da ningun error, vamos por el buen camino:
 
-		foto 3.1
+  ![imagen]()		foto 3.1
 
 	Del lado del esclavo:
 
@@ -74,5 +74,17 @@
 
 	- Reiniciamos el servicio y si no se da ningun error, vamos por el buen camino:
 
-		foto 3.2
+  ![imagen]()		foto 3.2
 
+  **3.2. En el maestro ejecutamos las siguientes sentencias:**
+
+  ![imagen]()
+
+
+  **3.3. En el esclavo le damos los datos del maestro e iniciamos el esclavo:**
+
+  ![imagen]()
+
+  **3.4. Comprobamos que todo funciona y listo.**
+
+  ![imagen]() 
