@@ -5,32 +5,32 @@
 
   **1.1. Entramos a MySQL.**
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/1.1.PNG)
 
   **1.2. Creamos la BD con resigistros.**
 
-  ![imagen]()	foto 1.2
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/1.2.PNG)
 
 
 **2. REALIZAR COPIA DE SEGURIDAD DE LA BASE DE DATOS USANDO MySQLDUMP.**
 
   **2.1. Evitamos que se acceda a la BD para cambiar nada con los siguientes comandos:**
 
-  ![imagen]()	foto 2.1
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/2.1.PNG)
 
   **2.2. Hacemos el mysqldum para guardar los datos en la maquina 1.**
 
-  ![imagen]()	foto 2.2
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/2.2.PNG)
 
   **2.3. Copiamos el archivo .sql en nuestra maquina 2 con el siguiente comando:**
 
-  ![imagen]()	foto 2.3
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/2.3.PNG)
 
   **2.4. En nuestra maquina 2, es necesario crear la BD, ya la copia no la creará, solo importa los datos.**
   ** y ya podremos restaurar los contedinos de nuestra BD.**		
 	
-  ![imagen]()	foto 2.4.
-  ![imagen]()	foto 2.5.
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/2.4.PNG)
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/2.5.PNG)
 
 
 **3.REPLICACIÓN DE LA BASE DE DATOS CON UNA CONFIGURACION MAESTRO-ESCLAVO.**
@@ -54,7 +54,7 @@
 
 	- Reiniciamos el servicio y si no se da ningun error, vamos por el buen camino:
 
-  ![imagen]()		foto 3.1
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/3.1.PNG)
 
 	Del lado del esclavo:
 
@@ -74,17 +74,18 @@
 
 	- Reiniciamos el servicio y si no se da ningun error, vamos por el buen camino:
 
-  ![imagen]()		foto 3.2
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/3.2.PNG)		
 
   **3.2. En el maestro ejecutamos las siguientes sentencias:**
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/3.3.PNG)
 
 
   **3.3. En el esclavo le damos los datos del maestro e iniciamos el esclavo:**
 
-  ![imagen]()
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/3.4.PNG)
 
   **3.4. Comprobamos que todo funciona y listo.**
 
-  ![imagen]() 
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/3.5.PNG)
+  ![imagen](https://github.com/JaviMancilla/swap/blob/master/PRACTICAS/Practica_5/Capturas/3.6.PNG) 
